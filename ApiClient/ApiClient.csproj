@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="s\**" />
+    <EmbeddedResource Remove="s\**" />
+    <None Remove="s\**" />
+  </ItemGroup>
+
+	<ItemGroup>
+		<PackageReference Include="IdentityModel" Version="3.3.1" />
+		<PackageReference Include="Microsoft.Extensions.Configuration" Version="2.0.1" />
+		<PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="2.0.0" />
+		<PackageReference Include="Newtonsoft.Json" Version="11.*" />
+	</ItemGroup>
+
+</Project>
