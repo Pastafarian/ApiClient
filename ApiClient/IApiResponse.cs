@@ -2,7 +2,7 @@
 using System.Net.Http;
 using Newtonsoft.Json;
 
-namespace Avalara.ApiClient
+namespace ApiClient
 {
     /// <summary>
     /// The API response.

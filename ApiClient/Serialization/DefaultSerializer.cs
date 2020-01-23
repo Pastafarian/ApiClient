@@ -1,6 +1,6 @@
 ﻿using Newtonsoft.Json;
 
-namespace Avalara.ApiClient.Serialization
+namespace ApiClient.Serialization
 {
     public class DefaultSerializer : ISerializer
     {

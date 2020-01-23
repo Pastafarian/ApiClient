@@ -1,7 +1,7 @@
 using System.Net.Http;
 using System.Threading.Tasks;
 
-namespace Avalara.ApiClient.Authorization
+namespace ApiClient.Authorization
 {
     /// <summary>
     /// Implentation of <see cref="IRequestAuthorization"/> that does nothing.

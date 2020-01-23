@@ -1,6 +1,5 @@
 using System;
 using System.Net.Http;
-using Avalara.ApiClient;
 using Xunit;
 
 namespace ApiClient.Tests

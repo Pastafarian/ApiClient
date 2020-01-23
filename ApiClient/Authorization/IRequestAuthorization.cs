@@ -1,7 +1,7 @@
 using System.Net.Http;
 using System.Threading.Tasks;
 
-namespace Avalara.ApiClient.Authorization
+namespace ApiClient.Authorization
 {
 	/// <summary>
 	/// Interface to encapsulate applying authorization to a REST request.

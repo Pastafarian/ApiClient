@@ -1,10 +1,10 @@
 using System;
 using System.Net;
 using System.Net.Http;
-using Avalara.ApiClient.Serialization;
+using ApiClient.Serialization;
 using Newtonsoft.Json;
 
-namespace Avalara.ApiClient
+namespace ApiClient
 {
 	/// <summary>
 	/// Simple implementation of the ApiResponse

@@ -1,8 +1,8 @@
-﻿using Avalara.ApiClient.Authorization;
-using Avalara.ApiClient.Authorization.OAuth;
+﻿using ApiClient.Authorization;
+using ApiClient.Authorization.OAuth;
 using Microsoft.Extensions.DependencyInjection;
 
-namespace Avalara.ApiClient.DependencyInjection
+namespace ApiClient.DependencyInjection
 {
     public static class ServiceCollectionExtensions
     {

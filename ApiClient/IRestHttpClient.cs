@@ -1,8 +1,8 @@
 using System.Net.Http;
 using System.Threading.Tasks;
-using Avalara.ApiClient.Authorization;
+using ApiClient.Authorization;
 
-namespace Avalara.ApiClient
+namespace ApiClient
 {
     /// <summary>
     /// Simple REST client helper interface.

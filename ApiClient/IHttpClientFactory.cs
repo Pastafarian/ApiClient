@@ -1,6 +1,6 @@
 ﻿using System.Net.Http;
 
-namespace Avalara.ApiClient
+namespace ApiClient
 {
     public interface IHttpClientFactory
     {

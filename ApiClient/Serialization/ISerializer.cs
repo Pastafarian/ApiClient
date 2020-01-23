@@ -1,5 +1,6 @@
 ﻿using Newtonsoft.Json;
-namespace Avalara.ApiClient.Serialization
+
+namespace ApiClient.Serialization
 {
     /// <summary>
     /// Serialization methods used by the client.

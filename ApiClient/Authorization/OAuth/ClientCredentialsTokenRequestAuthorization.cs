@@ -4,7 +4,7 @@ using System.Threading;
 using System.Threading.Tasks;
 using IdentityModel.Client;
 
-namespace Avalara.ApiClient.Authorization.OAuth
+namespace ApiClient.Authorization.OAuth
 {
     /// <summary>
     /// IRequestAuthorization using OAuth client credentials.

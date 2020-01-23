@@ -1,9 +1,9 @@
 ﻿using System;
 using System.Linq;
-using Avalara.ApiClient.Authorization.OAuth;
+using ApiClient.Authorization.OAuth;
 using Microsoft.Extensions.Configuration;
 
-namespace Avalara.ApiClient.Configuration
+namespace ApiClient.Configuration
 {
     public static class ConfigurationExtensions
     {

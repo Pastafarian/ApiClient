@@ -1,8 +1,7 @@
 using System;
 using System.Net;
-using Avalara.ApiClient;
-using Avalara.ApiClient.Authorization.OAuth;
-using Avalara.ApiClient.DependencyInjection;
+using ApiClient.Authorization.OAuth;
+using ApiClient.DependencyInjection;
 using Microsoft.Extensions.DependencyInjection;
 using Xunit;
 

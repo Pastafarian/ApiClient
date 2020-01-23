@@ -1,4 +1,4 @@
-namespace Avalara.ApiClient.Authorization.OAuth
+namespace ApiClient.Authorization.OAuth
 {
     public class IdServerSettings
     {

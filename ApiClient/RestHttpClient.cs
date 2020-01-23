@@ -1,15 +1,13 @@
 ﻿using System;
 using System.IO;
-using System.Linq.Expressions;
 using System.Net;
 using System.Net.Http;
 using System.Text;
 using System.Threading.Tasks;
-using Avalara.ApiClient.Authorization;
-using Avalara.ApiClient.Serialization;
-using Newtonsoft.Json;
+using ApiClient.Authorization;
+using ApiClient.Serialization;
 
-namespace Avalara.ApiClient
+namespace ApiClient
 {
     /// <summary>
     /// Simple REST client implementation.
